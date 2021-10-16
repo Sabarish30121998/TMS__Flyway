@@ -1,0 +1,1 @@
+ALTER TABLE vehicletype ADD COLUMN enginetype VARCHAR(255) DEFAULT NULL;
